@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(rgb(88, 88, 88),rgb(204, 204, 204),rgb(88, 88, 88));
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: rgb(129, 127, 127);
+}
+
+p:hover {
+    color:rgb(204, 204, 204);
+}
+
+.video {
+    border: 5px inset rgb(51, 51, 51);
+}
+
+.v {
+    width: 110px;
+    height: 90px;
+}
+
+.x {
+    width: 85px;
+    height: 85px;
+}
+
+footer {
+    background-color: black;
+}
